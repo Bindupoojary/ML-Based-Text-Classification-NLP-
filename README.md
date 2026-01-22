@@ -19,53 +19,37 @@ Account Issue
 Product Issue
 
 Other
-
+<hr>
 🧠 Approach Used
 
 Text Preprocessing
-
 Convert text to lowercase
-
 Remove punctuation and extra spaces
-
 Feature Extraction
-
 Convert text into numerical features using TF-IDF
-
 Model
-
 Train a Logistic Regression classifier
-
 Evaluation
-
 Evaluate performance using accuracy
-
 Validate predictions on unseen messages
-
+<hr>
 🧪 Technologies Used
 
 Python
-
 Pandas
-
 Scikit-learn
-
 Regular Expressions
 
+<hr>
 📈 Key Learnings
 
 ML-based text classification requires sufficient and balanced data
-
 With small datasets, accuracy can be unstable
-
 As data size increases, ML models generalize better than rule-based methods
-
 Accuracy should be interpreted along with business context
-
+<hr>
 ⚠️ Limitations
 
 Performance depends heavily on data size and quality
-
 Not suitable for very small datasets
-
 Requires labeled data
