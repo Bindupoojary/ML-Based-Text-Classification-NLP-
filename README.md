@@ -5,7 +5,7 @@ This project demonstrates a machine learning approach to text classification usi
 The goal is to automatically classify short customer support messages into predefined categories.
 
 This project is designed as a beginner-friendly NLP project to understand the end-to-end text classification pipeline.
-
+<hr>
 🎯 Problem Statement
 
 Given short customer messages, classify them into the following categories:
